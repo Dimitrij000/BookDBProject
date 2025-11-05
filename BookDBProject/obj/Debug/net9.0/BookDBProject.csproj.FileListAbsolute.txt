@@ -1,0 +1,14 @@
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\bin\Debug\net9.0\BookDBProject.exe
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\bin\Debug\net9.0\BookDBProject.deps.json
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\bin\Debug\net9.0\BookDBProject.runtimeconfig.json
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\bin\Debug\net9.0\BookDBProject.dll
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\bin\Debug\net9.0\BookDBProject.pdb
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.AssemblyInfoInputs.cache
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.AssemblyInfo.cs
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.csproj.CoreCompileInputs.cache
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.dll
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\refint\BookDBProject.dll
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.pdb
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\BookDBProject.genruntimeconfig.cache
+C:\Users\Toinen käyttäjä\BookDBProject\BookDBProject\obj\Debug\net9.0\ref\BookDBProject.dll
